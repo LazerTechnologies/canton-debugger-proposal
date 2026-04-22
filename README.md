@@ -1,6 +1,6 @@
 # DPM Debug — Visual Debugging Plugin for Daml on Canton
 
-**Strategy Deck:** [View the interactive deck →](https://lazertechnologies.github.io/canton-debugger-propoal/)
+**Strategy Deck:** [View the interactive deck →](https://lazertechnologies.github.io/canton-debugger-proposal/)
 
 **PDF:** [dpm-debug-strategy-deck.pdf](./dpm-debug-strategy-deck.pdf)
 
