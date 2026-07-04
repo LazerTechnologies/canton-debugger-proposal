@@ -15,8 +15,8 @@ This repo hosts the strategy deck and supporting materials for the Canton Develo
 The full grant proposal is submitted to [canton-foundation/canton-dev-fund](https://github.com/canton-foundation/canton-dev-fund) as a pull request.
 
 - **Category:** daml-tooling
-- **Budget:** 750,000 CC (~$112,500 USD)
-- **Timeline:** 12 weeks, 3 milestones
+- **Budget:** 1,000,000 CC (~$140,000 USD)
+- **Timeline:** 16 weeks, 3 milestones
 - **Proposer:** [Lazer Technologies](https://www.lazertechnologies.com/industries/crypto)
 
 ## About Lazer
