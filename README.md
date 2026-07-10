@@ -6,7 +6,7 @@
 
 ## Overview
 
-`dpm-debug` is a proposed DPM plugin that brings visual transaction debugging, structured test output, and a debug log panel to the Daml developer experience on Canton.
+`dpm-debug` is a proposed DPM plugin that launches a local visual developer workbench for Daml on Canton — participant explorer, visual transaction traces, and test reports. It is scoped as the UX layer of the Canton debugging stack, complementary to Walnut's `dpm trace` ([PR #327](https://github.com/canton-foundation/canton-dev-fund/pull/327)) and debug metadata ([PR #382](https://github.com/canton-foundation/canton-dev-fund/pull/382)) proposals, whose artifacts it renders.
 
 This repo hosts the strategy deck and supporting materials for the Canton Development Fund grant proposal.
 
